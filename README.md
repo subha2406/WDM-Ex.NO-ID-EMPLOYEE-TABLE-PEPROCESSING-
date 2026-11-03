@@ -1,6 +1,6 @@
 # WDM-Ex.NO-1D-EMPLOYEE-TABLE-PEPROCESSING
-## Name: Supraja B
-## Reg.no: 2305002026
+## Name: Subha shree U
+## Reg.no: 2305002025
 ## Aim:
 To apply Pre-Processing techniques to the training data set of Employee Table
 ## Description:
